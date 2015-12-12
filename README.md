@@ -1,0 +1,2 @@
+# KittenShrinkRay
+Image Optimization Application
