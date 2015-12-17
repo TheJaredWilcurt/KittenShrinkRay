@@ -20,4 +20,6 @@ Current idea for max compression:
 7. DeflOpt
 8. defluff
 
+* http://codepen.io/TheJaredWilcurt/pen/VYgBJV
+
 More experimentation needs done, but this is the best I've found so far.
