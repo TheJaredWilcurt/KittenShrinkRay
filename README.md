@@ -15,11 +15,11 @@ Current idea for max compression:
 3. OptiPNG
 4. zopfli
 5. PngOptimizer
-5. PNGOut
-6. OptiPNG
-7. DeflOpt
-8. defluff
+6. PNGOut
+7. OptiPNG
+8. DeflOpt
+9. defluff
 
-* http://codepen.io/TheJaredWilcurt/pen/VYgBJV
+http://codepen.io/TheJaredWilcurt/pen/VYgBJV
 
 More experimentation needs done, but this is the best I've found so far.
