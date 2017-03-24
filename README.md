@@ -1,4 +1,4 @@
-#Kitten Shrink Ray
+# Kitten Shrink Ray
 
 Kitten Shrink Ray is a lossless image optimization tool created for Web Designers and Developers.
 
